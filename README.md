@@ -248,8 +248,10 @@ X axis → Revenue ($) &nbsp;|&nbsp; Y axis → Model
 
 ## 👤 Author
 
-**Your Name**
-[LinkedIn](#) | [GitHub](#) | [Portfolio](#)
+NANDAN R
+[LinkedIn]https://www.linkedin.com/in/nandan-r-010564224/ |
+[GitHub]https://github.com/NandanR75|
+[Portfolio](#)
 
 ---
 
